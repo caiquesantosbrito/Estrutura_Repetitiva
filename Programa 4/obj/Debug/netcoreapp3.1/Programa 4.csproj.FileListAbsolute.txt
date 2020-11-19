@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Estrutura de Repetição\Programa 4\bin\Debug\netcoreapp3.1\Programa 4.exe
+C:\Users\caisb\OneDrive\Desktop\Estrutura de Repetição\Programa 4\bin\Debug\netcoreapp3.1\Programa 4.deps.json
+C:\Users\caisb\OneDrive\Desktop\Estrutura de Repetição\Programa 4\bin\Debug\netcoreapp3.1\Programa 4.runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Estrutura de Repetição\Programa 4\bin\Debug\netcoreapp3.1\Programa 4.runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Estrutura de Repetição\Programa 4\bin\Debug\netcoreapp3.1\Programa 4.dll
+C:\Users\caisb\OneDrive\Desktop\Estrutura de Repetição\Programa 4\bin\Debug\netcoreapp3.1\Programa 4.pdb
+C:\Users\caisb\OneDrive\Desktop\Estrutura de Repetição\Programa 4\obj\Debug\netcoreapp3.1\Programa 4.csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Estrutura de Repetição\Programa 4\obj\Debug\netcoreapp3.1\Programa 4.AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Estrutura de Repetição\Programa 4\obj\Debug\netcoreapp3.1\Programa 4.AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Estrutura de Repetição\Programa 4\obj\Debug\netcoreapp3.1\Programa 4.csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Estrutura de Repetição\Programa 4\obj\Debug\netcoreapp3.1\Programa 4.dll
+C:\Users\caisb\OneDrive\Desktop\Estrutura de Repetição\Programa 4\obj\Debug\netcoreapp3.1\Programa 4.pdb
+C:\Users\caisb\OneDrive\Desktop\Estrutura de Repetição\Programa 4\obj\Debug\netcoreapp3.1\Programa 4.genruntimeconfig.cache
